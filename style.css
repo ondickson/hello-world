@@ -1,0 +1,20 @@
+*{
+    background-color: bisque;
+    font-family: sans-serif, Arial, Helvetica;
+}
+
+.header{
+    text-align: center;
+}
+
+.text{
+    margin: 5px 10px;
+    font-size: 12px;
+}
+
+.image{
+    border: 12px;
+    border-radius: 20px;
+    box-sizing: border-box;
+    margin: 20px 20px;
+}
